@@ -1,0 +1,19 @@
+{
+    "name": "kbzaman/contact",
+    "description": "This package will send mail to admin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kbzaman",
+            "email": "kbzaman320@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Kbzaman\\Contact\\": "src/"
+        }
+    }
+}
